@@ -14,6 +14,6 @@ app.use('/api/posts',require('./routes/api/posts'));
 
 
 app.get('/', (req,res)=>res.send("API started running"));
-const PORT= process.env.PORT||5000;
+const PORT= process.env.PORT || 5000 ;
 
-app.listen(PORT,()=>console.log("Server connected on PORT ${PORT}"));
+app.listen(PORT,()=>console.log(`Server connected on PORT ${PORT}`));
