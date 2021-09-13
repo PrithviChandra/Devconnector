@@ -1,0 +1,5 @@
+{"mongoURI":"mongodb+srv://Prithvi:Prithvi@devconnector.iltq6.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"827caebc6dafd63e1619",
+    "githubSecret":"65768f3eaf8ec812fc6b904565be42fb293a5590"
+   }
